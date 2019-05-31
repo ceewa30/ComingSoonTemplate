@@ -1,0 +1,40 @@
+body {
+  background: url("../images/pexels-photo-638820.png")
+   no-repeat center center fixed;
+  background-size: cover;
+}
+div {
+  background-color: #CE5119;
+  width: 50%;
+  margin: 0 auto;
+  margin-top: 150px;
+  text-align: center;
+  border-radius: 25px;
+}
+
+h1 {
+  font-family: 'Karla', sans-serif;
+  color: #0F4793;
+  font-size: 4em;
+  padding-top: 10px;
+  /* padding: 20px;
+  margin: 20px; */
+}
+h1 i {
+  /* background-color: #CE5119;
+  color: #0F4793; */
+  background: url("../images/tspLogo.png") no-repeat center center;
+  width: 142px;
+  height: 73px;
+  text-indent: -999px;
+}
+p {
+  font-size: 1.8em;
+  color: #0F4793;
+}
+button {
+  padding: 20px;
+  font-size: 2em;
+  border-radius: 10px;
+  color: #CE5119;
+}
